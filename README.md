@@ -22,10 +22,6 @@ Here are some of the technologies and tools I work with:
 - **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps**: Git  
 
-## GitHub Stats  
-
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameerr-18&show_icons=true&theme=radical)  
-
 ## Featured Project  
 
 ### 🔹 **Text Summarization with NLP** (Infosys Springboard Internship)  
