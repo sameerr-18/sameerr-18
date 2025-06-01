@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 
 Here are some of the technologies and tools I work with:  
 
-- **Languages**: Python, JavaScript, Java, C++  
+- **Languages**: Python, JavaScript  
 - **Machine Learning & NLP**: Scikit-learn, TensorFlow, Hugging Face, NLTK, SpaCy  
 - **Web Development**: React, Flask, Veu.js 
 - **Databases**: PostgreSQL, MySQL, MongoDB  
@@ -29,7 +29,7 @@ Here are some of the technologies and tools I work with:
 - **Technologies used:** Python, NLTK, SpaCy, Hugging Face, Transformers, Gradio  
 - **Key Highlights:** Model fine-tuning, ROUGE score evaluation, and application deployment.  
 
-🔗 [Check out the project](https://github.com/sameerr-18/your-repo)  
+🔗 [Check out the project](https://github.com/sameerr-18/text_summarization_using_nlp)  
 
 ## Connect with Me  
 
